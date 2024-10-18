@@ -78,12 +78,12 @@ Press Enter to exit.
 
 2. **Navigate to the Directory**
    ```bash
-   cd rock-paper-scissors
+   cd rock-paper-scissors-game
    ```
 
 3. **Run the Game**
    ```bash
-   python rock_paper_scissors.py
+   python main.py
    ```
 
 ## 🛠️ Built With
